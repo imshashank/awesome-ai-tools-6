@@ -409,6 +409,8 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Gumloop](https://gumloop.com) — AI workflow builder with drag-and-drop simplicity and fast iteration. `#free`
 - [Relay.app](https://relay.app) — Human-in-the-loop workflow automation with AI-powered steps. `#free`
 
+- [Yodu](https://yodu.ai) — Managed AI employees for recurring business work with company memory, connected tools, schedules, and configurable approvals. `#paid`
+
 ### Computer Use & Browser Agents
 
 - [Operator](https://openai.com/operator) — OpenAI's agent that uses a real computer to complete web tasks autonomously.
